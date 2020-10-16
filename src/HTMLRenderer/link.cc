@@ -54,7 +54,7 @@ static string get_linkdest_detail_str(LinkDest * dest, Catalog * catalog, int & 
 
     ostringstream sout;
     // dec
-    sout << "[" << pageno;
+    sout << "[" << page correct no;
 
     if(dest)
     {
